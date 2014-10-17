@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[iti:home|Door43 (iti)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-iti|d43-iti repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-iti/archive/master.zip|d43-iti.zip]]
+
+**Recent Changes**
+{{changes>ns = iti}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/iti|Ethnologue data]]
+
